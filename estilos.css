@@ -1,0 +1,11 @@
+header {
+    border : 1px solid black;
+}
+
+nav {
+    border: 1px solid green;
+}
+
+article {
+    border: 1px solid blueviolet;
+}
